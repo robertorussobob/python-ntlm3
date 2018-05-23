@@ -30,7 +30,15 @@ This library has an identical API as python-ntlm and is a drop-in replacement. T
 
     import ntlm3 as ntlm
 
-API
+Bug Fixed
 ----------
 
-TODO
+Please refer to the following [link](https://github.com/arijeetmkh/python-ntlm3/commit/5f75780869cc8b4892b23661b9b753e90dae392a)
+
+
+Features Added
+---------------
+
+[xulz](https://github.com/xulz/python-ntlm/) added a feature for smtp authentication for Python2.x. 
+`smtp.py` are a fork of `smtp.py` written in Python3.x
+
