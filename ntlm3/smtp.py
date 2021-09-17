@@ -1,5 +1,5 @@
 import base64
-import ntlm
+import ntlm3 as ntlm
 from smtplib import SMTPException, SMTPAuthenticationError
 
 
